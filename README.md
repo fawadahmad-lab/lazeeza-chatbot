@@ -1,11 +1,13 @@
 ---
+title: "Laziza Pulao & Crispo - AI Chat Assistant"
+description: "AI-powered customer support assistant for Laziza Pulao & Crispo, a restaurant in Rawalpindi, Pakistan. Built with FastAPI, LangChain RAG, and Nomic Embeddings."
+---
 
 # 🥘 Laziza Pulao & Crispo - AI Chat Assistant
 
-> AI-powered customer support assistant for **Laziza Pulao & Crispo**, a restaurant in Rawalpindi, Pakistan.
+> AI-powered customer support assistant for **Laziza Pulao & Crispo**, a restaurant in Rawalpindi, Pakistan.  
 > Built with **FastAPI**, **LangChain RAG**, and **Nomic Embeddings**.
 
----
 
 ##  Project Overview
 
